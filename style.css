@@ -201,3 +201,8 @@
 .main {
   background-color: #141414;
 }
+
+.main__container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
