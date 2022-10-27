@@ -1,0 +1,17 @@
+@import "styles/changetheme.scss";
+
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+html {
+  font-size: 62.5%;
+  overflow-x: hidden;
+}
+
+.has-margin-top {
+  margin-top: 5rem;
+}
